@@ -41,5 +41,4 @@ function gradingStudents(grades: number[]): number[] {
     })
     
     return newGrades;
-
 }
